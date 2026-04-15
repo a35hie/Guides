@@ -1,19 +1,22 @@
 {
-  "name": "asboy2035-guides",
-  "version": "3.2.2",
+  "name": "@a35hie/guides",
+  "version": "3.2.3",
   "description": "This page has different guides for my apps and other services.",
+  "keywords": ["docs", "documentation", "guides"],
+  "author": {
+    "name": "ash",
+    "email": "ash@a35.dev"
+  },
   "license": "Apache-2.0",
   "scripts": {
     "dev": "mint dev"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://asboy2035@github.com/asboy2035/Guides.git"
+    "url": "git+https://a35hie@github.com/a35hie/Guides.git"
   },
-  "keywords": ["docs", "documentation", "guides"],
-  "author": "asboy2035",
   "bugs": {
-    "url": "https://github.com/asboy2035/Guides/issues"
+    "url": "https://github.com/a35hie/Guides/issues"
   },
-  "homepage": "https://guides.asboy2035.com"
+  "homepage": "https://guides.a35hie.me"
 }

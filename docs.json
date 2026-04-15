@@ -62,9 +62,7 @@
             "icon": "globe",
             "pages": [
               "apps/web-apps/authie",
-              "apps/web-apps/astroPlus",
-              "apps/web-apps/tickity",
-              "apps/web-apps/dewLog"
+              "apps/web-apps/astroPlus"
             ]
           },
           {
@@ -173,7 +171,7 @@
   "footer": {
     "socials": {
       "website": "https://a35.dev",
-      "github": "https://github.com/asboy2035"
+      "github": "https://github.com/a35hie"
     }
   }
 }

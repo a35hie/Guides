@@ -1,12 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AIDiffSettings">
+    <option name="showAIDiff" value="false" />
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c836c993-ba81-42aa-84aa-10bc206c1b47" name="Changes" comment="New icons!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/home.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/home.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/iphone-apps/serialbridge.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/iphone-apps/serialbridge.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/mac-apps/bigtime.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/mac-apps/bigtime.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/mac-apps/serialplotter.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/mac-apps/serialplotter.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/mac-apps/shimeTomo.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/mac-apps/shimeTomo.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/mac-apps/sideeye.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/mac-apps/sideeye.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/mac-apps/stand.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/mac-apps/stand.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/mac-apps/stickee.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/mac-apps/stickee.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/other-versions/stand-26.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/other-versions/stand-26.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web-apps/astroPlus.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web-apps/astroPlus.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web-apps/authie.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web-apps/authie.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web-apps/dewLog.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web-apps/tickity.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github/home.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/github/home.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github/other-apps/gitflow.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/github/other-apps/gitflow.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github/other-apps/sidesurf.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/github/other-apps/sidesurf.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github/other-apps/stickee.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/github/other-apps/stickee.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/index.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo/dark.svg" beforeDir="false" afterPath="$PROJECT_DIR$/logo/dark.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo/light.svg" beforeDir="false" afterPath="$PROJECT_DIR$/logo/light.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/misc/web/pwaInstall.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/misc/web/pwaInstall.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stylesheets/fonts.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/fonts.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/apps/intellij.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/themes/apps/intellij.mdx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/web/discordThemes.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/themes/web/discordThemes.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/web/fonts.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/themes/web/fonts.mdx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +45,15 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_/Users/ash/IdeaProjects/Guides" value="2wGEmojZHfLAMv7V0KnYRWX8lLz" />
+    </persistenceIdMap>
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="49" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -36,12 +75,16 @@
 }</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://asboy2035@github.com/asboy2035/Guides.git",
-    "accountId": "3a099e4d-a960-4419-accc-5f28f60b6a13"
+    "url": "https://github.com/a35hie/Guides.git",
+    "accountId": "e944b087-0720-442f-99d8-88ed0c18f885"
   }
 }]]></component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="vEfUA9ZC" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -54,33 +97,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/ash/IdeaProjects/Guides&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;npm.dev.executor&quot;: &quot;Run&quot;,
-    &quot;org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon&quot;: &quot;&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "cidr.known.project.marker": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "javascript.preferred.runtime.type.id": "node",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/ash/IdeaProjects/Guides",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.dev.executor": "Run",
+    "org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon": "",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -101,7 +146,7 @@
       <scripts>
         <script value="dev" />
       </scripts>
-      <node-interpreter value="$USER_HOME$/.nvm/versions/node/v20.19.5/bin/node" />
+      <node-interpreter value="$USER_HOME$/.nvm/versions/node/v22.22.1/bin/node" />
       <package-manager value="npm" />
       <envs />
       <EXTENSION ID="com.intellij.javascript.debugger.execution.StartBrowserRunConfigurationExtension">
@@ -222,6 +267,7 @@
       <workItem from="1764010034208" duration="73000" />
       <workItem from="1765890377034" duration="1829000" />
       <workItem from="1766260288599" duration="18000" />
+      <workItem from="1776220232102" duration="1536000" />
     </task>
     <task id="LOCAL-00001" summary="use jsdelivr">
       <option name="closed" value="true" />
@@ -523,5 +569,13 @@
     <MESSAGE value="update website and email links" />
     <MESSAGE value="New icons!" />
     <option name="LAST_COMMIT_MESSAGE" value="New icons!" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
   </component>
 </project>
