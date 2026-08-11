@@ -1,6 +1,6 @@
 {
   "name": "@a35hie/guides",
-  "version": "3.2.3",
+  "version": "3.3.0",
   "description": "This page has different guides for my apps and other services.",
   "keywords": ["docs", "documentation", "guides"],
   "author": {
@@ -13,10 +13,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://a35hie@github.com/a35hie/Guides.git"
+    "url": "https://github.com/a35hie/Guides.git"
   },
   "bugs": {
-    "url": "https://github.com/a35hie/Guides/issues"
+    "url": "https://github.com/a35hie/Guides"
   },
   "homepage": "https://guides.a35hie.me"
 }
