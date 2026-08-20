@@ -11,6 +11,11 @@
   "appearance": {
     "default": "system"
   },
+  "seo": {
+    "metatags": {
+      "yandex-verification": "f673f1f1b935e69c"
+    }
+  },
 
   "contextual": {
     "options": [
