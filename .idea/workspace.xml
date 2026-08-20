@@ -7,20 +7,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c836c993-ba81-42aa-84aa-10bc206c1b47" name="Changes" comment="update to new font and logo">
+    <list default="true" id="c836c993-ba81-42aa-84aa-10bc206c1b47" name="Changes" comment="update assets and apps">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/iphone-apps/serialbridge.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/iphone-apps/serialbridge.mdx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/mac-apps/bigtime.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/mac-apps/serialplotter.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/mac-apps/serialplotter.mdx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/mac-apps/shimeTomo.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/mac-apps/shimeTomo.mdx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/mac-apps/sideeye.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/mac-apps/sideeye.mdx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/mac-apps/stand.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/mac-apps/stand.mdx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/mac-apps/stickee.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/web-apps/astroPlus.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web-apps/astroPlus.mdx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/web-apps/authie.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/apps/intellij.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/themes/apps/intellij.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/home.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/home.mdx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +25,7 @@
     </persistenceIdMap>
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="47" />
+    <option name="cachedIndexableFilesCount" value="44" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -72,61 +61,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0" />
-      <entry key="S10" value="1.0" />
-      <entry key="S30" value="1.0000000000000493" />
-      <entry key="S60" value="1.000000439888933" />
-      <entry key="M2" value="1.0021532445176684" />
-      <entry key="M5" value="1.4180285697289827" />
-      <entry key="M10" value="3.526951006818661" />
-      <entry key="M15" value="5.644358149954509" />
-      <entry key="M30" value="9.58831914515392" />
-      <entry key="H1" value="12.710367116426228" />
-      <entry key="H2" value="14.684503053119752" />
-      <entry key="H4" value="15.796015143815273" />
-      <entry key="D1" value="16.79258623874779" />
-      <entry key="W1" value="16.970199708577873" />
+      <entry key="MS100" value="2.021074876175529" />
+      <entry key="MS500" value="3.1492098289177193" />
+      <entry key="S2" value="5.0656050935481165" />
+      <entry key="S5" value="6.30166853608727" />
+      <entry key="S10" value="6.998573728929857" />
+      <entry key="S30" value="7.621352006738582" />
+      <entry key="S60" value="7.80417422269561" />
+      <entry key="M2" value="7.902423789821007" />
+      <entry key="M5" value="8.368796283853062" />
+      <entry key="M10" value="10.479498456085677" />
+      <entry key="M15" value="12.597425119735764" />
+      <entry key="M30" value="16.550586782293372" />
+      <entry key="H1" value="19.685848524188827" />
+      <entry key="H2" value="21.67045566375774" />
+      <entry key="H4" value="22.788487918396964" />
+      <entry key="D1" value="23.791256443798098" />
+      <entry key="W1" value="23.97000782158052" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
-      <entry key="S2" value="5.371089853265285E-309" />
-      <entry key="S5" value="6.28179378356551E-124" />
-      <entry key="S10" value="3.4034687248140147E-62" />
-      <entry key="S30" value="5.0943613343959965E-21" />
-      <entry key="S60" value="1.008138839779576E-10" />
-      <entry key="M2" value="1.4195150338247108E-5" />
-      <entry key="M5" value="0.01743578622779196" />
-      <entry key="M10" value="0.18673699032135918" />
-      <entry key="M15" value="0.4116192712367741" />
-      <entry key="M30" value="0.9073236815994367" />
-      <entry key="H1" value="1.347088010172682" />
-      <entry key="H2" value="1.641394393233003" />
-      <entry key="H4" value="1.8118467497142172" />
-      <entry key="D1" value="1.967336148749937" />
-      <entry key="W1" value="1.9953007402406158" />
+      <entry key="S2" value="2.07720406165317E-310" />
+      <entry key="S5" value="1.7102136703149372E-124" />
+      <entry key="S10" value="1.7758452304991571E-62" />
+      <entry key="S30" value="4.101262136009683E-21" />
+      <entry key="S60" value="9.04553458158276E-11" />
+      <entry key="M2" value="1.344611874222311E-5" />
+      <entry key="M5" value="0.017061779067694696" />
+      <entry key="M10" value="0.1847233279055289" />
+      <entry key="M15" value="0.40865481982579477" />
+      <entry key="M30" value="0.9040505388441621" />
+      <entry key="H1" value="1.3446560252241466" />
+      <entry key="H2" value="1.6399120662649402" />
+      <entry key="H4" value="1.81102843452059" />
+      <entry key="D1" value="1.9671880306206804" />
+      <entry key="W1" value="1.9952792790415181" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9395227492140118" />
-      <entry key="MS500" value="0.9876008614453725" />
-      <entry key="S2" value="0.9968856972203758" />
-      <entry key="S5" value="0.9987531130852756" />
-      <entry key="S10" value="0.9993763620805105" />
-      <entry key="S30" value="0.9997920774647684" />
-      <entry key="S60" value="0.9998964732598709" />
-      <entry key="M2" value="1.0021152632208978" />
-      <entry key="M5" value="1.4354016165168793" />
-      <entry key="M10" value="3.713474247464184" />
-      <entry key="M15" value="6.055678172792663" />
-      <entry key="M30" value="10.495322874607599" />
-      <entry key="H1" value="14.057220215733954" />
-      <entry key="H2" value="16.32575500914327" />
-      <entry key="H4" value="17.607783453298538" />
-      <entry key="D1" value="18.759908217323527" />
-      <entry key="W1" value="18.96549839634328" />
+      <entry key="MS100" value="1.9194855236806816" />
+      <entry key="MS500" value="3.116444685779039" />
+      <entry key="S2" value="5.052220095116539" />
+      <entry key="S5" value="6.294982862731184" />
+      <entry key="S10" value="6.994844302897266" />
+      <entry key="S30" value="7.6199916060792425" />
+      <entry key="S60" value="7.803476650348221" />
+      <entry key="M2" value="7.902083683887622" />
+      <entry key="M5" value="8.385674536353713" />
+      <entry key="M10" value="10.663949192143152" />
+      <entry key="M15" value="13.0057420636218" />
+      <entry key="M30" value="17.454298122870167" />
+      <entry key="H1" value="21.03025986023002" />
+      <entry key="H2" value="23.310220319675743" />
+      <entry key="H4" value="24.599435397087785" />
+      <entry key="D1" value="25.758429880120882" />
+      <entry key="W1" value="25.965284987426912" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -596,7 +585,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update code blocks, add discord theme instructions" />
     <MESSAGE value="add homepage" />
     <MESSAGE value="fix main website url" />
     <MESSAGE value="add intellij themes" />
@@ -621,7 +609,8 @@
     <MESSAGE value="New icons!" />
     <MESSAGE value="update to a35hie " />
     <MESSAGE value="update to new font and logo" />
-    <option name="LAST_COMMIT_MESSAGE" value="update to new font and logo" />
+    <MESSAGE value="update assets and apps" />
+    <option name="LAST_COMMIT_MESSAGE" value="update assets and apps" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
