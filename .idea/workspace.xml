@@ -7,11 +7,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c836c993-ba81-42aa-84aa-10bc206c1b47" name="Changes" comment="update to a35hie 💜">
+    <list default="true" id="c836c993-ba81-42aa-84aa-10bc206c1b47" name="Changes" comment="update to new font and logo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/iphone-apps/serialbridge.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/iphone-apps/serialbridge.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/mac-apps/bigtime.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/mac-apps/serialplotter.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/mac-apps/serialplotter.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/mac-apps/shimeTomo.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/mac-apps/shimeTomo.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/mac-apps/sideeye.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/mac-apps/sideeye.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/mac-apps/stand.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/mac-apps/stand.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/mac-apps/stickee.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web-apps/astroPlus.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web-apps/astroPlus.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web-apps/authie.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stylesheets/fonts.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/fonts.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/apps/intellij.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/themes/apps/intellij.mdx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,12 +57,12 @@
     &quot;assignee&quot;: &quot;asboy2035&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/a35hie/Guides.git",
-    "accountId": "3a099e4d-a960-4419-accc-5f28f60b6a13"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/a35hie/Guides.git&quot;,
+    &quot;accountId&quot;: &quot;3a099e4d-a960-4419-accc-5f28f60b6a13&quot;
   }
-}]]></component>
+}</component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="vEfUA9ZC" />
   </component>
@@ -63,61 +72,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="7.308284807004723E-126" />
-      <entry key="S2" value="8.052609306207751E-32" />
-      <entry key="S5" value="5.489664878666551E-13" />
-      <entry key="S10" value="1.0464180888233993E-6" />
-      <entry key="S30" value="0.01611110286508006" />
-      <entry key="S60" value="0.1794987374614222" />
-      <entry key="M2" value="0.5991583801464796" />
-      <entry key="M5" value="1.234905367863592" />
-      <entry key="M10" value="1.571562562875632" />
-      <entry key="M15" value="1.7030644319914134" />
-      <entry key="M30" value="1.8455699881083398" />
-      <entry key="H1" value="1.9212339523215114" />
-      <entry key="H2" value="1.9602213866528773" />
-      <entry key="H4" value="1.980010800025245" />
-      <entry key="D1" value="1.9966545072543174" />
-      <entry key="W1" value="1.9995217294831822" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0000000000000493" />
+      <entry key="S60" value="1.000000439888933" />
+      <entry key="M2" value="1.0021532445176684" />
+      <entry key="M5" value="1.4180285697289827" />
+      <entry key="M10" value="3.526951006818661" />
+      <entry key="M15" value="5.644358149954509" />
+      <entry key="M30" value="9.58831914515392" />
+      <entry key="H1" value="12.710367116426228" />
+      <entry key="H2" value="14.684503053119752" />
+      <entry key="H4" value="15.796015143815273" />
+      <entry key="D1" value="16.79258623874779" />
+      <entry key="W1" value="16.970199708577873" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000062661033688" />
-      <entry key="S2" value="1.050032175666019" />
-      <entry key="S5" value="1.3017864632965486" />
-      <entry key="S10" value="1.549350947297398" />
-      <entry key="S30" value="1.818998851202418" />
-      <entry key="S60" value="1.9049855530351953" />
-      <entry key="M2" value="1.9513072863355958" />
-      <entry key="M5" value="1.9802307657510132" />
-      <entry key="M10" value="1.9900660411058513" />
-      <entry key="M15" value="1.9933663472063543" />
-      <entry key="M30" value="1.9966776546137441" />
-      <entry key="H1" value="1.9983374452627447" />
-      <entry key="H2" value="1.9991683768328263" />
-      <entry key="H4" value="1.9995841019308114" />
-      <entry key="D1" value="1.9999306716401923" />
-      <entry key="W1" value="1.9999900956543155" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="5.371089853265285E-309" />
+      <entry key="S5" value="6.28179378356551E-124" />
+      <entry key="S10" value="3.4034687248140147E-62" />
+      <entry key="S30" value="5.0943613343959965E-21" />
+      <entry key="S60" value="1.008138839779576E-10" />
+      <entry key="M2" value="1.4195150338247108E-5" />
+      <entry key="M5" value="0.01743578622779196" />
+      <entry key="M10" value="0.18673699032135918" />
+      <entry key="M15" value="0.4116192712367741" />
+      <entry key="M30" value="0.9073236815994367" />
+      <entry key="H1" value="1.347088010172682" />
+      <entry key="H2" value="1.641394393233003" />
+      <entry key="H4" value="1.8118467497142172" />
+      <entry key="D1" value="1.967336148749937" />
+      <entry key="W1" value="1.9953007402406158" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.012344395497865271" />
-      <entry key="MS500" value="0.41523658946733816" />
-      <entry key="S2" value="0.8381768381143668" />
-      <entry key="S5" value="1.1787631854955714" />
-      <entry key="S10" value="1.4697473574812132" />
-      <entry key="S30" value="1.8019489641050153" />
-      <entry key="S60" value="2.066811745910634" />
-      <entry key="M2" value="2.541304837818273" />
-      <entry key="M5" value="3.2113772462993553" />
-      <entry key="M10" value="3.5597309150343888" />
-      <entry key="M15" value="3.6951613494228917" />
-      <entry key="M30" value="3.841610705426361" />
-      <entry key="H1" value="3.919252359260334" />
-      <entry key="H2" value="3.959230100066483" />
-      <entry key="H4" value="3.9795150339472247" />
-      <entry key="D1" value="3.9965718624979654" />
-      <entry key="W1" value="3.9995099226709088" />
+      <entry key="MS100" value="0.9395227492140118" />
+      <entry key="MS500" value="0.9876008614453725" />
+      <entry key="S2" value="0.9968856972203758" />
+      <entry key="S5" value="0.9987531130852756" />
+      <entry key="S10" value="0.9993763620805105" />
+      <entry key="S30" value="0.9997920774647684" />
+      <entry key="S60" value="0.9998964732598709" />
+      <entry key="M2" value="1.0021152632208978" />
+      <entry key="M5" value="1.4354016165168793" />
+      <entry key="M10" value="3.713474247464184" />
+      <entry key="M15" value="6.055678172792663" />
+      <entry key="M30" value="10.495322874607599" />
+      <entry key="H1" value="14.057220215733954" />
+      <entry key="H2" value="16.32575500914327" />
+      <entry key="H4" value="17.607783453298538" />
+      <entry key="D1" value="18.759908217323527" />
+      <entry key="W1" value="18.96549839634328" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -131,37 +140,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "CidrDebugProfileConversion": "true",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "cidr.known.project.marker": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "copilot.chat.legacySessionMetadata.migrated": "true",
-    "git-widget-placeholder": "main",
-    "javascript.preferred.runtime.type.id": "node",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/ash/IdeaProjects/Guides",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "npm.dev.executor": "Run",
-    "org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon": "",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;CidrDebugProfileConversion&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;copilot.chat.legacySessionMetadata.migrated&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ash/IdeaProjects/Guides&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.dev.executor&quot;: &quot;Run&quot;,
+    &quot;org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon&quot;: &quot;&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -587,7 +596,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add github section, improve styling" />
     <MESSAGE value="update code blocks, add discord theme instructions" />
     <MESSAGE value="add homepage" />
     <MESSAGE value="fix main website url" />
@@ -612,7 +620,8 @@
     <MESSAGE value="update website and email links" />
     <MESSAGE value="New icons!" />
     <MESSAGE value="update to a35hie " />
-    <option name="LAST_COMMIT_MESSAGE" value="update to a35hie " />
+    <MESSAGE value="update to new font and logo" />
+    <option name="LAST_COMMIT_MESSAGE" value="update to new font and logo" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>

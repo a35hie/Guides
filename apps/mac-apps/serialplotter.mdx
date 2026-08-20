@@ -2,7 +2,7 @@
 title: 'SerialPlotter'
 description: 'A beautiful serial plotter for mac.'
 icon: 'plug'
-tag: 'NEW'
+tag: 'UPDATED'
 ---
 
 <Frame caption="SerialHeader">
@@ -53,6 +53,14 @@ How to use SerialPlotter:
     Serial.print(String(lightOn ? "On" : "Off"));
     Serial.print(" | Dimmer: ");
     Serial.println(String(dimmerPercentage));
+    ```
+
+    For general logs with annotated log levels (v1.5+):
+    ```cpp
+    Serial.print("[INFO] Info level")
+    Serial.print("[WARNING] Warning level")
+    Serial.print("[ERROR] Error level")
+    Serial.print("[DONE] Task complete")
     ```
   </Step>
 

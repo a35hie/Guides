@@ -58,23 +58,13 @@
             ]
           },
           {
-            "group": "Web Apps",
-            "icon": "globe",
-            "pages": [
-              "apps/web-apps/authie",
-              "apps/web-apps/astroPlus"
-            ]
-          },
-          {
             "group": "Mac Apps",
             "icon": "laptop",
             "pages": [
               "apps/mac-apps/stand",
               "apps/mac-apps/serialplotter",
               "apps/mac-apps/shimeTomo",
-              "apps/mac-apps/sideeye",
-              "apps/mac-apps/bigtime",
-              "apps/mac-apps/stickee"
+              "apps/mac-apps/sideeye"
             ]
           },
           {
@@ -89,6 +79,13 @@
             "icon": "ellipsis",
             "pages": [
               "apps/other-versions/stand-26"
+            ]
+          },
+          {
+            "group": "Web Apps",
+            "icon": "globe",
+            "pages": [
+              "apps/web-apps/astroPlus"
             ]
           }
         ]
