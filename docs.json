@@ -143,29 +143,6 @@
             ]
           }
         ]
-      },
-      {
-        "dropdown": "GitHub",
-        "icon": "github",
-        "description": "READMEs/other projects.",
-        "groups": [
-          {
-            "group": " ",
-            "pages": [
-              "github/home"
-            ]
-          },
-          {
-            "group": "Other Apps",
-            "icon": "grid-2",
-            "pages": [
-              "github/other-apps/sidesurf",
-              "github/other-apps/gitflow",
-              "github/other-apps/stickee",
-              "github/other-apps/fakeui"
-            ]
-          }
-        ]
       }
     ]
   },
