@@ -7,18 +7,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c836c993-ba81-42aa-84aa-10bc206c1b47" name="Changes" comment="add yandex verification">
+    <list default="true" id="c836c993-ba81-42aa-84aa-10bc206c1b47" name="Changes" comment="add byg link, remove pp fonts, remove">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/github/home.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github/other-apps/fakeui.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github/other-apps/gitflow.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github/other-apps/sidesurf.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github/other-apps/stickee.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/index.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/OnlineThemesTextbox.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/OnlineThemesTextbox.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/apps/fleet.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/themes/apps/fleet.mdx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/web/discordThemes.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/themes/web/discordThemes.mdx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/web/fonts.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/themes/web/fonts.mdx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,61 +63,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0052992356540924" />
-      <entry key="MS500" value="1.3506248126606106" />
-      <entry key="S2" value="1.7700414189147384" />
-      <entry key="S5" value="2.0172070597257874" />
-      <entry key="S10" value="2.7890799971120956" />
-      <entry key="S30" value="5.851211715741646" />
-      <entry key="S60" value="8.985080113180235" />
-      <entry key="M2" value="15.292009847030775" />
-      <entry key="M5" value="31.328731747704374" />
-      <entry key="M10" value="45.23864849849029" />
-      <entry key="M15" value="52.807648431864344" />
-      <entry key="M30" value="63.67990857356444" />
-      <entry key="H1" value="71.22204633699212" />
-      <entry key="H2" value="75.77693220190267" />
-      <entry key="H4" value="78.29679135890272" />
-      <entry key="D1" value="80.53596793375424" />
-      <entry key="W1" value="80.93336865396577" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000000007820609" />
+      <entry key="S5" value="1.000227669187822" />
+      <entry key="S10" value="1.015244173192428" />
+      <entry key="S30" value="1.4237740733689326" />
+      <entry key="S60" value="2.5302309680501143" />
+      <entry key="M2" value="4.528748364847342" />
+      <entry key="M5" value="13.526586741670453" />
+      <entry key="M10" value="31.094876341351355" />
+      <entry key="M15" value="44.22391417995481" />
+      <entry key="M30" value="65.97214452698066" />
+      <entry key="H1" value="82.43351175140228" />
+      <entry key="H2" value="92.7904740733596" />
+      <entry key="H4" value="98.63860552785796" />
+      <entry key="D1" value="103.90173049586004" />
+      <entry key="W1" value="104.84213962308671" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="4.168539144855926E-62" />
-      <entry key="MS500" value="5.296595282250606E-13" />
-      <entry key="S2" value="8.650290196086616E-4" />
-      <entry key="S5" value="0.0744701208118541" />
-      <entry key="S10" value="0.4407559189997473" />
-      <entry key="S30" value="1.8115820855219893" />
-      <entry key="S60" value="2.6770960488986093" />
-      <entry key="M2" value="3.3588015253108083" />
-      <entry key="M5" value="4.28202767523883" />
-      <entry key="M10" value="5.026405826676226" />
-      <entry key="M15" value="5.495131013711835" />
-      <entry key="M30" value="6.313793228427929" />
-      <entry key="H1" value="6.99264811622968" />
-      <entry key="H2" value="7.444917017425706" />
-      <entry key="H4" value="7.7080163088572204" />
-      <entry key="D1" value="7.9491785188496005" />
-      <entry key="W1" value="7.992684849483098" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="4.639290554234542E-127" />
+      <entry key="S5" value="3.662270482532425E-51" />
+      <entry key="S10" value="9.774225004653728E-26" />
+      <entry key="S30" value="1.0965272033281043E-8" />
+      <entry key="S60" value="2.0827859991522871E-4" />
+      <entry key="M2" value="0.029626114023689618" />
+      <entry key="M5" value="0.6454247410210625" />
+      <entry key="M10" value="1.9514418738380788" />
+      <entry key="M15" value="2.92444481818533" />
+      <entry key="M30" value="4.605990574243162" />
+      <entry key="H1" value="5.972525589577727" />
+      <entry key="H2" value="6.880468863360747" />
+      <entry key="H4" value="7.410059771260573" />
+      <entry key="D1" value="7.897120496351734" />
+      <entry key="W1" value="7.985186214342033" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9442329360409288" />
-      <entry key="MS500" value="1.330059106436802" />
-      <entry key="S2" value="1.762690813284384" />
-      <entry key="S5" value="2.0620751045513765" />
-      <entry key="S10" value="3.1540924171046902" />
-      <entry key="S30" value="7.571769674929285" />
-      <entry key="S60" value="11.594305307380258" />
-      <entry key="M2" value="18.603288326335804" />
-      <entry key="M5" value="35.58230860897854" />
-      <entry key="M10" value="50.24749815094137" />
-      <entry key="M15" value="58.29000576076693" />
-      <entry key="M30" value="69.98660316545055" />
-      <entry key="H1" value="78.21090913773777" />
-      <entry key="H2" value="83.21988633949607" />
-      <entry key="H4" value="86.00380689285484" />
-      <entry key="D1" value="88.48497679832964" />
-      <entry key="W1" value="88.926029194698" />
+      <entry key="MS100" value="0.8467453123625271" />
+      <entry key="MS500" value="0.9672763296139321" />
+      <entry key="S2" value="0.9917167314626905" />
+      <entry key="S5" value="0.996899222128413" />
+      <entry key="S10" value="1.013351336361918" />
+      <entry key="S30" value="1.4213164536216318" />
+      <entry key="S60" value="2.5268695572221453" />
+      <entry key="M2" value="4.554156824935341" />
+      <entry key="M5" value="14.16427050889048" />
+      <entry key="M10" value="33.03676396839671" />
+      <entry key="M15" value="47.13937075734056" />
+      <entry key="M30" value="70.57162390925201" />
+      <entry key="H1" value="88.402065408092" />
+      <entry key="H2" value="99.66873938895728" />
+      <entry key="H4" value="106.04750318554288" />
+      <entry key="D1" value="111.79864835476533" />
+      <entry key="W1" value="112.8272966620332" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -140,6 +134,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "CidrDebugProfileConversion": "true",
+    "CidrDebugProfileConversion262": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -155,7 +150,7 @@
     "javascript.preferred.runtime.type.id": "node",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/ash/IdeaProjects/Guides",
+    "last_opened_file_path": "/Users/ash/IdeaProjects/Guides/images",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -171,8 +166,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/themes/apps" />
       <recent name="$PROJECT_DIR$/fonts" />
     </key>
@@ -189,7 +184,7 @@
       <scripts>
         <script value="dev" />
       </scripts>
-      <node-interpreter value="$USER_HOME$/.nvm/versions/node/v24.18.0/bin/node" />
+      <node-interpreter value="$USER_HOME$/.nvm/versions/node/v24.22.1/bin/node" />
       <package-manager value="npm" />
       <envs />
       <EXTENSION ID="com.intellij.javascript.debugger.execution.StartBrowserRunConfigurationExtension">
@@ -201,8 +196,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
-        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+        <option value="bundled-jdk-30f59d01ecdd-ac68fc9d2b05-intellij.indexing.shared.core-IU-263.7307.112" />
+        <option value="bundled-js-predefined-d6986cc7102b-56aff7b04f6f-JavaScript-IU-263.7307.112" />
       </set>
     </attachedChunks>
   </component>
@@ -594,7 +589,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add intellij themes" />
     <MESSAGE value="add new astronomy page and fleet themes page" />
     <MESSAGE value="update tewfa to authie" />
     <MESSAGE value="add dewlog and tickity pages" />
@@ -619,7 +613,8 @@
     <MESSAGE value="update assets and apps" />
     <MESSAGE value="remove dead links" />
     <MESSAGE value="add yandex verification" />
-    <option name="LAST_COMMIT_MESSAGE" value="add yandex verification" />
+    <MESSAGE value="add byg link, remove pp fonts, remove" />
+    <option name="LAST_COMMIT_MESSAGE" value="add byg link, remove pp fonts, remove" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
