@@ -7,11 +7,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c836c993-ba81-42aa-84aa-10bc206c1b47" name="Changes" comment="add byg link, remove pp fonts, remove">
+    <list default="true" id="c836c993-ba81-42aa-84aa-10bc206c1b47" name="Changes" comment="update discord mods, fleet deprecation notice">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/OnlineThemesTextbox.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/OnlineThemesTextbox.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/apps/fleet.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/themes/apps/fleet.mdx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/web/discordThemes.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/themes/web/discordThemes.mdx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,59 +63,59 @@
     <decayedCancelled>
       <entry key="MS100" value="1.0" />
       <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0000000007820609" />
-      <entry key="S5" value="1.000227669187822" />
-      <entry key="S10" value="1.015244173192428" />
-      <entry key="S30" value="1.4237740733689326" />
-      <entry key="S60" value="2.5302309680501143" />
-      <entry key="M2" value="4.528748364847342" />
-      <entry key="M5" value="13.526586741670453" />
-      <entry key="M10" value="31.094876341351355" />
-      <entry key="M15" value="44.22391417995481" />
-      <entry key="M30" value="65.97214452698066" />
-      <entry key="H1" value="82.43351175140228" />
-      <entry key="H2" value="92.7904740733596" />
-      <entry key="H4" value="98.63860552785796" />
-      <entry key="D1" value="103.90173049586004" />
-      <entry key="W1" value="104.84213962308671" />
+      <entry key="S2" value="1.0000000000449625" />
+      <entry key="S5" value="1.000309907795317" />
+      <entry key="S10" value="1.0621691848185515" />
+      <entry key="S30" value="3.2333810854106715" />
+      <entry key="S60" value="6.8727736877094765" />
+      <entry key="M2" value="11.439970795098128" />
+      <entry key="M5" value="22.102981653188372" />
+      <entry key="M10" value="40.088110219726445" />
+      <entry key="M15" value="53.65364855426474" />
+      <entry key="M30" value="76.43694667556927" />
+      <entry key="H1" value="93.88036458075027" />
+      <entry key="H2" value="104.92378394896905" />
+      <entry key="H4" value="111.17977573940932" />
+      <entry key="D1" value="116.82143231591131" />
+      <entry key="W1" value="117.83057072562269" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
-      <entry key="S2" value="4.639290554234542E-127" />
-      <entry key="S5" value="3.662270482532425E-51" />
-      <entry key="S10" value="9.774225004653728E-26" />
-      <entry key="S30" value="1.0965272033281043E-8" />
-      <entry key="S60" value="2.0827859991522871E-4" />
-      <entry key="M2" value="0.029626114023689618" />
-      <entry key="M5" value="0.6454247410210625" />
-      <entry key="M10" value="1.9514418738380788" />
-      <entry key="M15" value="2.92444481818533" />
-      <entry key="M30" value="4.605990574243162" />
-      <entry key="H1" value="5.972525589577727" />
-      <entry key="H2" value="6.880468863360747" />
-      <entry key="H4" value="7.410059771260573" />
-      <entry key="D1" value="7.897120496351734" />
-      <entry key="W1" value="7.985186214342033" />
+      <entry key="S2" value="3.120915804752214E-140" />
+      <entry key="S5" value="1.9718896546594688E-56" />
+      <entry key="S10" value="2.268028085922942E-28" />
+      <entry key="S30" value="1.4516929766868511E-9" />
+      <entry key="S60" value="7.5783094001056E-5" />
+      <entry key="M2" value="0.0178705751985017" />
+      <entry key="M5" value="0.5272676733953193" />
+      <entry key="M10" value="1.7637961409523142" />
+      <entry key="M15" value="2.7338327584272424" />
+      <entry key="M30" value="4.45335484206065" />
+      <entry key="H1" value="5.872731524043294" />
+      <entry key="H2" value="6.822744340807953" />
+      <entry key="H4" value="7.378910506383675" />
+      <entry key="D1" value="7.891577998020267" />
+      <entry key="W1" value="7.9843853582523945" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.8467453123625271" />
-      <entry key="MS500" value="0.9672763296139321" />
-      <entry key="S2" value="0.9917167314626905" />
-      <entry key="S5" value="0.996899222128413" />
-      <entry key="S10" value="1.013351336361918" />
-      <entry key="S30" value="1.4213164536216318" />
-      <entry key="S60" value="2.5268695572221453" />
-      <entry key="M2" value="4.554156824935341" />
-      <entry key="M5" value="14.16427050889048" />
-      <entry key="M10" value="33.03676396839671" />
-      <entry key="M15" value="47.13937075734056" />
-      <entry key="M30" value="70.57162390925201" />
-      <entry key="H1" value="88.402065408092" />
-      <entry key="H2" value="99.66873938895728" />
-      <entry key="H4" value="106.04750318554288" />
-      <entry key="D1" value="111.79864835476533" />
-      <entry key="W1" value="112.8272966620332" />
+      <entry key="MS100" value="0.9075191553171609" />
+      <entry key="MS500" value="0.9807790039885513" />
+      <entry key="S2" value="0.995159721864525" />
+      <entry key="S5" value="0.9983692878957211" />
+      <entry key="S10" value="1.0610218132402744" />
+      <entry key="S30" value="3.230696007815075" />
+      <entry key="S60" value="6.8689044511500414" />
+      <entry key="M2" value="11.453275610214133" />
+      <entry key="M5" value="22.62287845833656" />
+      <entry key="M10" value="41.84269994415666" />
+      <entry key="M15" value="56.378687158289175" />
+      <entry key="M30" value="80.88380446506359" />
+      <entry key="H1" value="99.74908825164538" />
+      <entry key="H2" value="111.74429171377022" />
+      <entry key="H4" value="118.55750316626983" />
+      <entry key="D1" value="124.71280349716665" />
+      <entry key="W1" value="125.81492629372353" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -131,39 +129,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "CidrDebugProfileConversion": "true",
-    "CidrDebugProfileConversion262": "true",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "cidr.known.project.marker": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "copilot.chat.legacySessionMetadata.migrated": "true",
-    "git-widget-placeholder": "main",
-    "javascript.preferred.runtime.type.id": "node",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/ash/IdeaProjects/Guides/images",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "npm.dev.executor": "Run",
-    "org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon": "",
-    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;CidrDebugProfileConversion&quot;: &quot;true&quot;,
+    &quot;CidrDebugProfileConversion262&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;copilot.chat.legacySessionMetadata.migrated&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ash/IdeaProjects/Guides/images&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.dev.executor&quot;: &quot;Run&quot;,
+    &quot;org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon&quot;: &quot;&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images" />
@@ -196,8 +194,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-ac68fc9d2b05-intellij.indexing.shared.core-IU-263.7307.112" />
-        <option value="bundled-js-predefined-d6986cc7102b-56aff7b04f6f-JavaScript-IU-263.7307.112" />
+        <option value="bundled-jdk-30f59d01ecdd-20b81b3600b3-intellij.indexing.shared.core-IU-263.8311.30" />
+        <option value="bundled-js-predefined-d6986cc7102b-9f26556bf277-JavaScript-IU-263.8311.30" />
       </set>
     </attachedChunks>
   </component>
@@ -589,7 +587,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add new astronomy page and fleet themes page" />
     <MESSAGE value="update tewfa to authie" />
     <MESSAGE value="add dewlog and tickity pages" />
     <MESSAGE value="add icons to sections" />
@@ -614,7 +611,8 @@
     <MESSAGE value="remove dead links" />
     <MESSAGE value="add yandex verification" />
     <MESSAGE value="add byg link, remove pp fonts, remove" />
-    <option name="LAST_COMMIT_MESSAGE" value="add byg link, remove pp fonts, remove" />
+    <MESSAGE value="update discord mods, fleet deprecation notice" />
+    <option name="LAST_COMMIT_MESSAGE" value="update discord mods, fleet deprecation notice" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
